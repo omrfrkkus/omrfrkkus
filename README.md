@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Godot-478CBF?style=flat&logo=godot-engine&logoColor=white" alt="Godot" />
 </div>
 
-If you have any questions or collaboration ideas, feel free to reach out to me at omerfaruk.kus@outlook.com(mailto:omerfaruk.kus@outlook.com).
+If you have any questions or collaboration ideas, feel free to reach out to me at [omerfaruk.kus@outlook.com](mailto:omerfaruk.kus@outlook.com)
 Additionally, for my private projects, please contact me for access.
 
 You can find my projects showcased here. Thank you!
