@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ömer Faruk Kuş 👋
 
 I'm a passionate software developer based in [City, Country], continuously exploring and creating in the realm of software development and technology. Primarily, I work with [Your Primary Language] and actively engage with the following languages and technologies:
 
