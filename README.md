@@ -1,20 +1,19 @@
-### Hi there 👋
+# Hello, I'm [Your Name] 👋
 
-# Merhaba, Ben [Adınız Soyadınız] 👋
+I'm a passionate software developer based in [City, Country], continuously exploring and creating in the realm of software development and technology. Primarily, I work with [Your Primary Language] and actively engage with the following languages and technologies:
 
-Yazılım geliştirme ve teknolojiye olan tutkumu, her gün yeni şeyler öğrenerek ve projeler üreterek sürdürüyorum. [Şehir, Ülke] tabanlı bir yazılım geliştiriciyim ve genellikle [Ana Diliniz] ile çalışmayı tercih ediyorum. Ayrıca, aşağıdaki dilleri ve teknolojileri de aktif olarak kullanıyorum:
-
-<!-- Dil İkonları -->
+<!-- Language Icons -->
 <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
-<!-- İsteğe Bağlı Diğer İkonlar -->
-<!-- <img src="ikon_url" alt="Dil Adı" /> -->
+<!-- Optional: Other Icons -->
+<!-- <img src="icon_url" alt="Language Name" /> -->
 
-Bu dillerle ilgili projeler geliştirmek ve yeni şeyler öğrenmek beni heyecanlandırıyor. Eğer projelerimle ilgili sorularınız veya işbirliği önerileriniz varsa, lütfen bana [e-posta adresiniz] üzerinden ulaşın.
+I find excitement in developing projects with these languages and am always eager to learn new things. If you have any questions about my projects or collaboration ideas, feel free to reach out to me at [your email address].
 
-Geliştirdiğim projeleri burada bulabilirsiniz. Teşekkür ederim!
+You can find my projects showcased here. Thank you!
+
 
 
 <!--
