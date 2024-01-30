@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop" />
-  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator" />
-  <img src="https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white" alt="GIMP" />
 </div>
 
 If you have any questions or collaboration ideas, feel free to reach out to me at [omerfaruk.kus@outlook.com](mailto:omerfaruk.kus@outlook.com).
